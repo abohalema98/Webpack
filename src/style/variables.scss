@@ -1,0 +1,24 @@
+$lgsize:40px;
+$mdsize:30px;
+$smsize:20px;
+$centar:center;
+
+/* p dark variables */
+$graycolor:gray;
+$browncolor:brown;
+
+$yellowcolor:yellow;
+$color:brown;
+
+td{
+    background-color:$bgcolor;
+    color:$color;
+}
+table{
+    background-color:$browncolor;
+    color:$yellowcolor;
+}
+p{
+ text-align: $centar;
+ font:$lgsize ;
+}
